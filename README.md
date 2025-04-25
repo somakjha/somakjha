@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Somak</h1>
+<h1 align="center">Hello</h1>
 <h3 align="center">Learner</h3>
 
-- 💬 Ask me about **Python,Data,Cloud,Kubernetes,linux**
+- 💬 Ask me about **Python,Data,Cloud,Kubernetes,Linux**
 
 - 📫 How to reach me **somak.jha@gmail.com**
 
