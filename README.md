@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Somak</h1>
 <h3 align="center">Learner</h3>
 
-- 🌱 I’m currently learning **react.js**
-
 - 💬 Ask me about **Python,Data,Cloud,Kubernetes,linux**
 
 - 📫 How to reach me **somak.jha@gmail.com**
