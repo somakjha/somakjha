@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **react.js**
 
-- 💬 Ask me about **react.js, design**
+- 💬 Ask me about **Python,Data,Cloud,Kubernetes,linux**
 
 - 📫 How to reach me **somak.jha@gmail.com**
 
