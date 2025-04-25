@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **somak.jha@gmail.com**
 
-- ⚡ Fun fact **Sleepy! Chai helps :P**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
